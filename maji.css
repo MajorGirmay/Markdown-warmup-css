@@ -1,0 +1,31 @@
+body {
+    background-color:black;
+    padding:960px
+    text-align : left;
+    color: pink;
+    font-family :Verdana,Geneva,sans-serief;
+    margin-left : 20px;
+    font-weight:normal;
+
+
+}
+
+
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: Balck;
+    font-family:Tahoma 
+    font-weight:800;
+    font-style:italic;
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing:0.2em;
+    font-size: 16px;
+    padding:20px;
+
+
+
+}
